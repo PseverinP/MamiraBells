@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:adjustViewBounds="true"
+        android:src="@drawable/main_image"
+        android:id="@+id/image_bell"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/bg_color"
+        android:alpha="0.5"
+        android:layout_alignBottom="@+id/image_bell">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name"
+            android:text="Кам'янець-Подільский"
+            android:textColor="@color/text_color"
+            android:textSize="@dimen/bell_name_size"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_date"
+            android:text="12.10.2014"
+            android:textColor="@color/text_color"
+            android:textSize="@dimen/other_text_size"
+            android:layout_alignBottom="@+id/tv_name"
+            android:layout_alignParentRight="true"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_description"
+            android:layout_marginTop="10dp"
+            android:text="Кам'янець-Подільский"
+            android:textColor="@color/text_color"
+            android:textSize="@dimen/other_text_size"
+            android:layout_below="@+id/tv_name"
+            android:layout_alignParentLeft="true"
+            android:singleLine="true"/>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

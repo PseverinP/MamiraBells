@@ -1,0 +1,6 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="main_text_size">44sp</dimen>
+    <integer name="grid_column_count">3</integer>
+</resources>

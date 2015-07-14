@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MamiraBells</string>
+    <string name="main_title">Mamira Bells</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+    <string name="android_api_key">AIzaSyAtUiP-pNujNKf7ZdALVfv1IdbFVFonRvM</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_city">Назва (місто)</string>
+    <string name="description">Опис</string>
+    <string name="presenter">Хто подарував?</string>
+    <string name="date">Дата</string>
+    <string name="country">Країна</string>
+    <string name="location">Місце</string>
+
+
+    <string name="bell_place">Місце дзвіночка</string>
+    <string name="bell_data">Данні дзвіночка</string>
+
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_color">#ff000000</color>
+    <color name="text_color">#ffffffff</color>
+    <color name="edittext_bg_color">#ffc8c8c8</color>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="main_image_margin">100dp</dimen>
+    <dimen name="main_text_size">30sp</dimen>
+    <dimen name="bell_name_size">18sp</dimen>
+    <dimen name="other_text_size">16sp</dimen>
+
+    <integer name="grid_column_count">1</integer>
+
+    <dimen name="add_items_margin">5dp</dimen>
+    <dimen name="add_edittexts_padding">5dp</dimen>
+
+    <dimen name="common_padding_small">4dp</dimen>
+    <dimen name="common_padding_medium">8dp</dimen>
+    <dimen name="common_padding_large">12dp</dimen>
+    <dimen name="common_padding_xlarge">16dp</dimen>
+    <dimen name="common_padding_xxlarge">24dp</dimen>
+</resources>
